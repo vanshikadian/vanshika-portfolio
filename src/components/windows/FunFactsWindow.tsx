@@ -21,7 +21,7 @@ export default function FunFactsWindow() {
         fun-facts.txt
       </h1>
       <p className="text-[12px] mb-5" style={{ color: "rgba(255,255,255,0.35)" }}>
-        things that don't fit on a resume
+        things that don&apos;t fit on a resume
       </p>
 
       <div className="h-px w-full mb-5" style={{ background: "rgba(255,255,255,0.08)" }} />

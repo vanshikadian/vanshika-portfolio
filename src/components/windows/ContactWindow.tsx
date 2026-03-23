@@ -18,7 +18,7 @@ export default function ContactWindow() {
       style={{ color: "rgba(255,255,255,0.82)" }}
     >
       <h1 className="font-cormorant text-[26px] font-semibold text-white mb-1 leading-tight">
-        let's work together
+        let&apos;s work together
       </h1>
 
       <div className="h-px w-full my-4" style={{ background: "rgba(255,255,255,0.08)" }} />

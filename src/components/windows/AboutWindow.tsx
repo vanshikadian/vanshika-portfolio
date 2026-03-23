@@ -43,7 +43,7 @@ export default function AboutWindow() {
             <li>🏊&nbsp; national-level competitive swimmer</li>
             <li>🏠&nbsp; resident assistant for 50 students</li>
             <li>📱&nbsp; built an app 20,000 people actually use</li>
-            <li>🎓&nbsp; 7x dean's list </li>
+            <li>🎓&nbsp; 7x dean&apos;s list </li>
             <li>🧠&nbsp; cognitive science minor because i think about how people think</li>
           </ul>
         </Section>
